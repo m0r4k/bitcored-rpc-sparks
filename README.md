@@ -2,8 +2,8 @@ bitcored-rpc-sparks.js
 ===============
 
 [![NPM Package](https://img.shields.io/npm/v/bitcored-rpc-sparks.svg?style=flat-square)](https://www.npmjs.org/package/bitcored-rpc-sparks)
-[![Build Status](https://img.shields.io/travis/sparksevo/bitcored-rpc-sparks.svg?branch=master&style=flat-square)](https://travis-ci.org/sparksevo/bitcored-rpc-sparks)
-[![Coverage Status](https://img.shields.io/coveralls/sparksevo/bitcored-rpc-sparks.svg?style=flat-square)](https://coveralls.io/r/sparksevo/bitcored-rpc-sparks?branch=master)
+[![Build Status](https://img.shields.io/travis/bitcored-rpc-sparks.svg?branch=master&style=flat-square)](https://travis-ci.org/bitcored-rpc-sparks)
+[![Coverage Status](https://img.shields.io/coveralls/bitcored-rpc-sparks.svg?style=flat-square)](https://coveralls.io/r/bitcored-rpc-sparks?branch=master)
 
 A client library to connect to sparks Core RPC in JavaScript.
 
