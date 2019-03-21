@@ -1,5 +1,5 @@
 {
-  "name": "@sparksevo/sparksd-rpc",
+  "name": "bitcored-rpc-sparks",
   "description": "sparks Client Library to connect to sparks Core (sparksd) via RPC",
   "version": "1.2.0",
   "author": {
@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sparksevo/sparksd-rpc"
+    "url": "https://github.com/sparksevo/bitcored-rpc-sparks"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -54,7 +54,7 @@
     "sinon": "^7.2.3"
   },
   "bugs": {
-    "url": "https://github.com/sparksevo/sparksd-rpc/issues"
+    "url": "https://github.com/sparksevo/bitcored-rpc-sparks/issues"
   },
-  "homepage": "https://github.com/sparksevo/sparksd-rpc"
+  "homepage": "https://github.com/sparksevo/bitcored-rpc-sparks"
 }

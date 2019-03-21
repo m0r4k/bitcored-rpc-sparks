@@ -1,18 +1,18 @@
-sparksd-rpc.js
+bitcored-rpc-sparks.js
 ===============
 
-[![NPM Package](https://img.shields.io/npm/v/sparksd-rpc.svg?style=flat-square)](https://www.npmjs.org/package/@sparksevo/sparksd-rpc)
-[![Build Status](https://img.shields.io/travis/sparksevo/sparksd-rpc.svg?branch=master&style=flat-square)](https://travis-ci.org/sparksevo/sparksd-rpc)
-[![Coverage Status](https://img.shields.io/coveralls/sparksevo/sparksd-rpc.svg?style=flat-square)](https://coveralls.io/r/sparksevo/sparksd-rpc?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/bitcored-rpc-sparks.svg?style=flat-square)](https://www.npmjs.org/package/bitcored-rpc-sparks)
+[![Build Status](https://img.shields.io/travis/sparksevo/bitcored-rpc-sparks.svg?branch=master&style=flat-square)](https://travis-ci.org/sparksevo/bitcored-rpc-sparks)
+[![Coverage Status](https://img.shields.io/coveralls/sparksevo/bitcored-rpc-sparks.svg?style=flat-square)](https://coveralls.io/r/sparksevo/bitcored-rpc-sparks?branch=master)
 
 A client library to connect to sparks Core RPC in JavaScript.
 
 ## Get Started
 
-sparksd-rpc.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
+bitcored-rpc-sparks.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
 
 ```bash
-npm install @sparksevo/sparksd-rpc
+npm install bitcored-rpc-sparks
 ```
 
 ## RpcClient
