@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sparksevo/bitcored-rpc-sparks"
+    "url": "https://github.com/m0r4k/bitcored-rpc-sparks"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -54,7 +54,7 @@
     "sinon": "^7.2.3"
   },
   "bugs": {
-    "url": "https://github.com/sparksevo/bitcored-rpc-sparks/issues"
+    "url": "https://github.com/m0r4k/bitcored-rpc-sparks/issues"
   },
-  "homepage": "https://github.com/sparksevo/bitcored-rpc-sparks"
+  "homepage": "https://github.com/m0r4k/bitcored-rpc-sparks"
 }
